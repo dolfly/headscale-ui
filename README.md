@@ -1,11 +1,11 @@
-# HeadscaleUi
+# HSUI
 [![main](https://github.com/simcu/headscale-ui/actions/workflows/main.yml/badge.svg)](https://github.com/simcu/headscale-ui/actions/workflows/main.yml)
 
 This is a static headscale admin ui, no backend enviroment required
 
 ## Thanks
 
-Headscale - https://github.com/juanfont/headscale  version: v0.21.0
+Headscale - https://github.com/juanfont/headscale HSUI version: v0.21.0
 
 UI - https://github.com/NG-ZORRO/ng-zorro-antd  version: v15.0.3
 
