@@ -53,5 +53,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: simcu/headscale-ui
+          tags: dolfly/headscale-ui
           labels: latest ${{ github.ref_name }}
